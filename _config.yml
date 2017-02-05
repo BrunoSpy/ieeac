@@ -17,3 +17,5 @@ github_username:  BrunoSpy
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
